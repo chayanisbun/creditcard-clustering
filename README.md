@@ -1,6 +1,6 @@
-# Credit Card Analysis: Feature Engineering & Clustering
+# Credit Card Analysis: Feature Selection & Clustering
 
-This repository demonstrates a data science workflow on credit card datasets, divided into two main phases: Feature Selection/Engineering and Clustering Analysis.
+This repository demonstrates a data science workflow on credit card datasets, divided into two main phases: Feature Selection and Clustering Analysis.
 
 ## 📂 Project Structure
 
